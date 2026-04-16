@@ -320,23 +320,3 @@ This project is licensed under the MIT License.
 * Tailwind CSS
 * Payment Gateways (SSLCommerz, Stripe)
 
----
-
-## 📌 Example Submission Format
-
-```
-Frontend Repo    : https://github.com/Amitsengupta332/Planora-Frontend
-Backend Repo     : https://github.com/Amitsengupta332/Planora
-
-Frontend Live    : https://planora-frontend-psi.vercel.app/
-Backend Live     : https://planora-opal-chi.vercel.app/
-
-Demo Video       : https://drive.google.com/file/d/abc/view
-
-Admin Email      : admin@gmail.com
-Admin Password   : password123
-```
-
----
-
-# 🎉 Have a great day!
