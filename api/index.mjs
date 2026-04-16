@@ -2162,7 +2162,7 @@ app.use(
 app.use(cookieParser());
 app.use("/api/v1", routes_default);
 app.get("/", (req, res) => {
-  res.send("Hello from Apollo Gears World!");
+  res.send("Planora server running");
 });
 app.use(notfound_default);
 app.use(globalErrorhandler_default);

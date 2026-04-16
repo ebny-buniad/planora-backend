@@ -57,7 +57,7 @@ app.use(cookieParser());
 app.use("/api/v1", router);
 
 app.get("/", (req: Request, res: Response) => {
-  res.send("Hello from Apollo Gears World!");
+  res.send("Planora server running");
 });
 
 // not found
